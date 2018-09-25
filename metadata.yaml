@@ -1,0 +1,24 @@
+_repo: Sermons-by-the-late-Rev-Richard-de-Courcy_57397
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Courcy, Richard de
+    gutenberg_agent_id: '49363'
+    url: http://www.gutenberg.org/2009/agents/49363
+  editor:
+    agent_name: Hill, Brian
+    gutenberg_agent_id: '49364'
+    url: http://www.gutenberg.org/2009/agents/49364
+description: ''
+gutenberg_issued: '2018-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sermons by the late Rev. Richard de Courcy
+url: http://www.gutenberg.org/ebooks/57397
